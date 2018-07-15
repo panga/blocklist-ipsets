@@ -1,0 +1,38 @@
+[
+	{
+		"name": "bi_dns_0_1d",
+		"category": "attacks",
+		"ips": 45279,
+		"common": 2
+	},
+	{
+		"name": "bi_named_0_1d",
+		"category": "attacks",
+		"ips": 45279,
+		"common": 2
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 86182797,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762763573,
+		"common": 5308
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346495215,
+		"common": 256
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 128
+	}
+]

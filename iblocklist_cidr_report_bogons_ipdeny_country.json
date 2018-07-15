@@ -1,0 +1,42 @@
+[
+	{
+		"code": "BE",
+		"value": 1024
+	},
+	{
+		"code": "CH",
+		"value": 1024
+	},
+	{
+		"code": "EU",
+		"value": 1024
+	},
+	{
+		"code": "FR",
+		"value": 1024
+	},
+	{
+		"code": "GB",
+		"value": 2048
+	},
+	{
+		"code": "GE",
+		"value": 1024
+	},
+	{
+		"code": "IQ",
+		"value": 2048
+	},
+	{
+		"code": "IT",
+		"value": 2048
+	},
+	{
+		"code": "RU",
+		"value": 9216
+	},
+	{
+		"code": "TR",
+		"value": 1024
+	}
+]

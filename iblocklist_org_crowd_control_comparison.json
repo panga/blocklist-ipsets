@@ -1,0 +1,20 @@
+[
+	{
+		"name": "bi_dns_0_1d",
+		"category": "attacks",
+		"ips": 45279,
+		"common": 1
+	},
+	{
+		"name": "bi_named_0_1d",
+		"category": "attacks",
+		"ips": 45279,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762763573,
+		"common": 512
+	}
+]
